@@ -1,0 +1,58 @@
+53.1- Indique com um X quais dos dados seguintes são do tipo Inteiro. )
+( x)1000
+( )&quot;O&quot;
+( )&quot;-900&quot;
+( )Verdadeiro.
+( )-456 ...
+( x)34
+( )&quot;Casa 8&quot;
+(x )O
+.( )Falso.
+( )-1.56
+
+54. Indique com um X quais dos dados seguintes são do tipo Real.
+( x)-678
+(x )&quot;0.87&quot;
+( x)&quot;-9.12&quot;
+( ).Verdade iro.
+(x )-456
+( x)-99.8
+( )&quot;Cinco&quot;
+(x )45.8976
+( )Falso. &quot;!;&quot;&quot;
+( x)1.56
+
+55.Indique-com um x os dados do tipo literal.
+( ) 678&#39;
+.( ) &quot;0.87&quot;
+( ) &quot;-9.12&quot; &quot;
+(x ) &quot;Verdadeiro&quot;
+
+( ) -456
+( ) -99.8
+( x) &quot;Cinco&quot;
+( ) 45.8976
+( x) .Falso.
+( ) 1.56
+(x ) #CABEC
+
+56-.Indique com um X os dados do tipo Lógico,
+( ) -678
+( ) &quot;0.87&quot;
+( ) &quot;-9.12&quot;
+( x) .Verdadeiro.
+( ) -456
+( x) .V.
+( ) &quot;Cinco&quot;
+( x) .Falso. •
+( x) .F.
+( ) -1.56
+57.Assinale com um X os nomes válidos para uma variável.
+( x) ENDEREÇO
+( )21 BRASIL
+(x )FONE$COM
+( ) NOMEUSUÁRIO
+(x ) NOME_USUÁRIO
+( )NOME*USUÁRIO
+( )END*A-6
+(x )ClDADE3
