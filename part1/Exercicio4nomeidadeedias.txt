@@ -1,0 +1,26 @@
+Algoritmo "IdadeeNome"
+// Disciplina   : [Algoritmo]
+// Professor   :   Coradini
+// Descrição   : Escreva um algoritmo para ler o nome e a idade de uma pessoa, e exibir quantos dias de vida ela possui.
+//Considere sempre anos completos, e que um ano possui 365 dias. Ex: uma pessoa com 19 anos possui 6935 dias
+//de vida; veja um exemplo de saída:  MARIA, VOCÊ JÁ VIVEU 6935 DIAS
+// Autor(a)    : Alexandre Donisete Velho
+// Data atual  : 26/09/2022
+Var
+// Seção de Declarações das variáveis
+ idade : inteiro
+
+nome: caractere
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc...
+Escreva ("Qual o seu nome:")
+leia(nome)
+
+Escreva ("Digite sua idade:")
+leia(idade)
+
+escreval ("Anos para dias:", idade * 365 ," ","dias")
+
+
+
+Fimalgoritmo

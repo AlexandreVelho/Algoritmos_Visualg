@@ -1,0 +1,28 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Faça um algoritmo para calcular quantas ferraduras são necessárias para equipar todos os cavalos
+//comprados para um haras.
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 23/09/2022
+Var
+// Seção de Declarações das variáveis 
+c , f , ferraduras : inteiro
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+escreva ("**********Ferraduras necessarias por cavalo**********")
+escreva()
+escreva()
+
+
+escreva("Por favor, informe o quantidade de cavalos:")
+leia(c)
+
+f <- 4
+ferraduras <- (c*f)
+
+escreva ("Esse haras necessita de", ferraduras, "  ", "ferraduras!")
+
+
+Fimalgoritmo

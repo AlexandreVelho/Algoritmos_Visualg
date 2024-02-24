@@ -1,0 +1,31 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   :
+// Descrição   : A imobiliária Imóbilis vende apenas terrenos retangulares. Faça um algoritmo para ler as dimensões de um
+//terreno e depois exibir a área do terreno.
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 23/09/2022
+Var
+// Seção de Declarações das variáveis 
+base, altura, area: real
+
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+
+Escreval("************** Exibir a Area do terreno ************** ")
+Escreval()
+Escreval()
+
+Escreva("Olá, informe a base do retangulo:")
+leia(base)
+
+Escreva("Olá, informe a altura do retangulo:")
+leia(altura)
+
+area <- (base * altura)/2
+
+Escreva("Esse retangulo tem uma área de ", area)
+
+
+Fimalgoritmo
