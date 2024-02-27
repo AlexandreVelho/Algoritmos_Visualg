@@ -1,2 +1,3 @@
 # Algoritmos_Visualg
- Este é meu repositório para atividades feitas em visualg nas aulas de algoritmo na faculdade na primeira fase
+ This is my repository for activities done in visualg in algorithm classes at college in the first phase
+
